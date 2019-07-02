@@ -1,0 +1,16 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import 'component/list';
+@import 'component/description';
+@import 'component/cars';
+@import 'component/dice';
+
+.car-body {
+  padding: 0 !important;
+}

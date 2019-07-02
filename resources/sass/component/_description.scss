@@ -1,0 +1,47 @@
+.halla h1 {
+    text-align: center;
+}
+
+.halla {
+    background-color: #eee;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 40px;
+}
+
+form {
+    display: block;
+}
+
+input {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    background: none;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    padding: 5px 5px 5px 0;
+}
+
+
+input[type=submit] {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    width: 35%;
+    cursor: pointer;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+    border-bottom: 1px solid #6c3fff;
+}
+
+button {
+    border-radius: 5%;
+    border: none;
+    background-color: #6c3fff;
+    width: 20%;
+}

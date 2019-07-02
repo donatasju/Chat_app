@@ -1,0 +1,33 @@
+.dice1 {
+  background-image: url("http://clipartmag.com/images/picture-of-dice-1.gif");
+
+}
+.dice2 {
+  background-image: url("https://thefiveplanets.org/b01/data/graphics/textures/dice/face2.jpg");
+
+}
+.dice3 {
+  background-image: url("https://thefiveplanets.org/b01/data/graphics/textures/dice/face3.jpg");
+
+}
+.dice4 {
+  background-image: url("https://thefiveplanets.org/b01/data/graphics/textures/dice/face4.jpg");
+
+}
+.dice5 {
+  background-image: url("https://thefiveplanets.org/b01/data/graphics/textures/dice/face5.jpg");
+
+}
+.dice6 {
+  background-image: url("https://thefiveplanets.org/b01/data/graphics/textures/dice/face6.jpg");
+
+}
+
+.size {
+  margin: 0 auto;
+  height: 400px;
+  width: 400px;
+  background-size: 400px 400px;
+  object-fit: contain;
+  background-repeat: no-repeat;
+}

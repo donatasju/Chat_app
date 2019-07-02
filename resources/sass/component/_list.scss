@@ -1,0 +1,13 @@
+nav {
+  ul {
+    list-style-type: none;
+    color: white;
+    li:hover {
+      text-decoration: underline;
+    }
+  }
+  .active{
+    text-decoration: underline;
+    color: darkblue !important;
+  }
+}
